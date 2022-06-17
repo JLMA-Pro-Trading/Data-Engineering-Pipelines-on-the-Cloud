@@ -1,0 +1,45 @@
+city_id,lat,lon,icao,iata,name
+2643743,51.5053,0.055277,EGLC,LCY,"London, London City"
+2643743,51.553,-0.418166,EGWU,NHT,"London, RAF Northolt"
+2643743,51.3308,0.032499,EGKB,BQH,"London, London Biggin Hill"
+2643743,51.4706,-0.461941,EGLL,LHR,"London, London Heathrow"
+2643743,51.2136,-0.138611,EGKR,KRH,"Redhill, Redhill Aerodrome"
+2643743,51.1481,-0.190277,EGKK,LGW,"London, London Gatwick"
+2643743,51.8747,-0.368333,EGGW,LTN,"London, London Luton"
+2643743,51.3519,0.503332,EGTO,RCS,Rochester
+2643743,51.6117,-0.808332,EGTB,HYC,"High Wycombe, Wycombe Air Park"
+2643743,51.885,0.234999,EGSS,STN,"London, London Stansted"
+2950159,52.5597,13.287699,EDDT,TXL,"Berlin, Berlin-Tegel"
+2950159,52.35139,13.493889,EDDB,BER,"Berlin, Berlin Brandenburg"
+2950159,52.20361,13.156389,EDAZ,QXH,"Trebbin, Schönhagen"
+3117735,40.3707,-3.78514,LECU,ECV,"Madrid, Cuatro Vientos"
+3117735,40.4936,-3.56676,LEMD,MAD,"Madrid, Adolfo Suárez Madrid–Barajas"
+3117735,40.4967,-3.445869,LETO,TOJ,"Madrid, Torrejón"
+2988507,48.7744,2.201539,LFPV,VIY,"Villacoublay/Vélizy, Villacoublay-Vélizy (BA 107) Air Base"
+2988507,48.7253,2.35944,LFPO,ORY,"Paris, Paris-Orly"
+2988507,48.9694,2.44139,LFPB,LBG,"Paris, Paris-Le Bourget"
+2988507,48.7519,2.106189,LFPN,TNF,Toussus-le-Noble
+2988507,49.0128,2.549999,LFPG,CDG,"Paris, Charles de Gaulle"
+2988507,49.0966,2.040829,LFPT,POX,"Pontoise, Pontoise - Cormeilles-en-Vexin"
+2988507,49.2535,2.51914,LFPC,CSF,"Creil, Creil Air Base"
+683506,44.5032,26.1021,LRBS,BBU,"Bucharest, Băneasa"
+683506,44.5722,26.1022,LROP,OTP,"Bucharest, Henri Coandă"
+3054643,47.4369,19.255598,LHBP,BUD,"Budapest, Budapest Ferenc Liszt"
+2911298,53.6304,9.988229,EDDH,HAM,Hamburg
+2911298,53.53528,9.835556,EDHI,XFW,"Hamburg, Hamburg-Finkenwerder"
+756135,52.1657,20.9671,EPWA,WAW,"Warsaw, Warsaw Chopin"
+756135,52.4511,20.6518,EPMO,WMI,"Warsaw, Modlin"
+2761369,48.1103,16.5697,LOWW,VIE,"Vienna, Schwechat"
+3128760,41.2971,2.078459,LEBL,BCN,Barcelona
+3128760,41.5209,2.105079,LELL,QSA,Sabadell
+2673730,59.3544,17.941698,ESSB,BMA,"Stockholm, Stockholm-Bromma"
+2673730,59.6519,17.9186,ESSA,ARN,"Stockholm, Stockholm-Arlanda"
+792680,44.8184,20.3091,LYBE,BEG,"Belgrade, Belgrade Nikola Tesla"
+792680,44.9,20.641,LYPA,QBG,"Pančevo, Pančevo Airfield"
+792680,44.9353,20.2575,LYBT,BJY,"Batajnica, Batajnica Air Base"
+2867714,48.0814,11.2831,EDMO,OBF,Oberpfaffenhofen
+2867714,48.205555,11.266943,ETSF,FEL,Fürstenfeldbruck
+2867714,48.3538,11.7861,EDDM,MUC,Munich
+3169070,41.7994,12.5949,LIRA,CIA,"Roma, Ciampino–G. B. Pastine"
+3169070,41.8045,12.2508,LIRF,FCO,"Rome, Leonardo da Vinci–Fiumicino"
+2735943,41.2481,-8.681389,LPPR,OPO,"Porto, Francisco de Sá Carneiro"
