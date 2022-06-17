@@ -54,7 +54,7 @@ def get_flights():
             return time_
         
         def getTrafficPerHour(listOfFlights):
-            arrivalsPerHour = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+            arrivalsPerHour = [0]*24
             for i in range(len(listOfFlights)):
                 h_a = listOfFlights[i].hour
                 arrivalsPerHour[h_a] +=1
