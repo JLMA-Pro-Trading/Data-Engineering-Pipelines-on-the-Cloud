@@ -20,8 +20,7 @@ Since data is needed every day, in real time and accessible by everyone in the c
 1) Python scripts for data collection from different APIs sources
 2) Create a relational data base (DB) from scratch using MySQL into AWS Cloud Compute Service (RDS)
 3) Automate the data collection to the DB using the AWS Lambda funtions
-from IPython.display import Image
-Image(filename='data_pipeline.png',width=800, height=400)
+
 
 
 ## ***Project Summary***
